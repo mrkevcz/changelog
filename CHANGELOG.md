@@ -3,12 +3,12 @@ Všechny významné změny tohoto projektu jsou zdokumentovány (od nejnovějš�
 
 ## Master contact
 
-Michal Pitlik - pitlik@webdesignart.cz
+- Michal Pitlik - pitlik@webdesignart.cz
 
 ## Devs
 
-[MR] - Martin Ratiborský (martin@mrkev.cz) 
-[DO] - Daniel Ovári (daniel@mrkev.cz) 
+- [MR] Martin Ratiborský (martin@mrkev.cz) 
+- [DO] Daniel Ovári (daniel@mrkev.cz) 
 
 ## Logs
 
