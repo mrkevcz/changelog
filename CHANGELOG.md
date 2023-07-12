@@ -12,5 +12,5 @@ Všechny významné změny tohoto projektu jsou zdokumentovány (od nejnovějš�
 
 ## Logs
 
-### [1.0.0.0] - 12.7.2023 - MR
+#### [1.0.0.0] - 12.7.2023 - MR
 - První vzorový zápis, který nahraďte první reálným updatem
