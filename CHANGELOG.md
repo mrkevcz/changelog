@@ -3,7 +3,7 @@ Všechny významné změny tohoto projektu jsou zdokumentovány (od nejnovějš�
 
 ## Master contact
 
-- Michal Pitlik - pitlik@webdesignart.cz
+- Michal Pitlik (pitlik@webdesignart.cz)
 
 ## Devs
 
